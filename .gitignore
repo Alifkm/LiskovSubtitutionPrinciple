@@ -1,0 +1,8 @@
+*.PS
+bin
+obj
+*.rar
+*.zip
+other
+packages
+.vs
